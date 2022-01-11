@@ -1,3 +1,4 @@
+![preview](https://user-images.githubusercontent.com/75815637/148933008-ea629a25-a77a-4e9f-a4ff-3cc3056e99a6.png)
 # Foodies
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.14.
